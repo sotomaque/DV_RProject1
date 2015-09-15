@@ -1,0 +1,24 @@
+---
+author: "Enrique Sotomayor & Amy Recio"
+output: html_document 
+---
+Project 1
+===
+
+How does the price of bording passes sold for the Titanic correlate to suvival outcomes?
+
+**The Titanic sunk on April 15, 1912 along with over 1,500 men, women, and children.**
+<br></br>
+In order to create this visualization, age and fare are used as measures, and the color of each point plot is determined by the sex of the corresponding passanger.
+<br></br>
+![](../01 Data/image1.png) 
+<br></br>
+This plot is very similar to the previous one, except only male and female genders are plotted. This is done by specifying in SQL "select * from titanic where gender is not null"
+<br></br>
+![](../01 Data/image2.png) 
+<br></br>
+Males were slighly less likely to survive, as lifeboats were scarece and seats were reserved for women and chlidren.
+
+![](../01 Data/image3.png) 
+![](../01 Data/image4.png) 
+![](../01 Data/image5.png) 
