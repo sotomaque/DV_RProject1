@@ -18,7 +18,29 @@ This plot is very similar to the previous one, except only male and female gende
 ![](../01 Data/image2.png) 
 <br></br>
 Males were slighly less likely to survive, as lifeboats were scarece and seats were reserved for women and chlidren.
-
+<br></br>
+<br></br>
+This visualization plots gender along the x-axis as a discrete variable (male or female), with the Fare price mapped along the y-axis. The color of each point plot is determined by the survival (or lack there of) of the corresponding passanger.
+<br></br>
 ![](../01 Data/image3.png) 
+<br></br>
+This visualization divides the previous graphic into six seperate graphs, ploting gender, Fare, and the corresponding class of the passanger. The color of each point plot is determined by the gender of the corresponding passanger.
+<br></br>
+<br></br>
+This representation shows men were in the first class were alot more likely to survive than men in the second or third class.
+<br></br>
 ![](../01 Data/image4.png) 
+<br></br>
+For this visualization we further specified the dataset of the previous plot, limiting ourselves to passangers with ages <= 10. The color of each point plot is determined by the survival (or lack there of) of the corresponding passanger.
+<br></br>
+<br></br>
+This representation shows most of the children survived, regardless of the class of their ticket.
+<br></br>
 ![](../01 Data/image5.png) 
+<br></br>
+This visualization was similar to the last, except this time we wanted to see how the elderly fared aboard the sinking ship. We plotted gender, fare, and the corresponding class of the passanger, but limited the scope of the passangers to those whose ages >= 60. The color of each point plot is determined by the survival (or lack there of) of the corresponding passanger.
+<br></br>
+<br></br>
+This representation shows most of the elderly did not survive the accident, but those who did survive were likely to have been first-class passangers. 
+<br></br>
+![](../01 Data/image6.png) 
